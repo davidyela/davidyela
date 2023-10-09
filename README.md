@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hola, bienvenidos a mi repositorio
+<hr>
 
-<!--
-**davidyela/davidyela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Diseñador UI / UX 
 
-Here are some ideas to get you started:
+Soy diseñador gráfico desde 2021 con un fuerte interes en el desarrollo de interfaces de usuario, paginas web, aplicaciones y diferentes elementos relacionados con el mundo digital.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Software
+<hr>
+
+![logo figma](/img/figma_l.png)
+
+
