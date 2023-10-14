@@ -1,6 +1,8 @@
 ## Hola, bienvenidos a mi repositorio
-***
 
+![bg-banner](/img/banner_md.png)
+
+***
 ### Diseñador UI / UX 
 
 Soy diseñador desde 2021 con un fuerte interes en el desarrollo de interfaces de usuario, paginas web, aplicaciones y gestion y creación de elementos que se emplean en el mundo digital.
